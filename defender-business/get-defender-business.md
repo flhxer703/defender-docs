@@ -1,6 +1,6 @@
 ---
 ### THIS IS CHANGED @ 1237
-
+### Changed 1455
 title: Get Microsoft Defender for Business
 description: Find out how to get Microsoft Defender for Business, endpoint protection for small and medium sized businesses.
 search.appverid: MET150
